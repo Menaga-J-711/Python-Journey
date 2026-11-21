@@ -4,11 +4,13 @@
 # 2. Age
 # 3. City
 # 4. College name
-#OUTPUT
+
+#CODE
 # name = "Menaga"
 # age = 22
 # city = "Sivakasi"
 # college_name = "PSR Engineering College"
+#OUTPUT
 # print(name,age,city, college_name)
 # --------------------------------------------------------
 #2. Write a Python program that asks the user for:
