@@ -13,6 +13,11 @@ age = 22
 city = "Sivakasi"
 college_name = "PSR Engineering College"
 print(name,age,city, college_name)
+
+
+#OUTPUT
+# Menaga J 22 Sivakasi PSR Engineering College
+
 #--------------------------------------------------------
 
 
