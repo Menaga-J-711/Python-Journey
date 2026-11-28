@@ -44,3 +44,15 @@
 # Enter length : 78
 # Ente Breath : 8
 # Area of a reactangle is  624 cm
+
+#Difference Between input() and int(input())
+# age = input("Ente age :")
+# print(type(age))
+# #OUTPUT ---> 
+# # Ente age :22
+# # <class 'str'>
+# age = int(input("Ente age :"))
+# print(type(age))
+#OUTPUT ---> 
+# Ente age :22
+# <class 'int'>
